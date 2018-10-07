@@ -1,0 +1,7 @@
+Analysis of Data
+    ================================================
+    There are 86 recorded in this datasheet.
+    The total net income is $38382578.0
+    The average change in profit is $-2315.12
+    The highest change in the profit/loss column was Feb-2012 "$" 1926159.0
+    THe higheest decrease in the profit/loss colum was Jan-2010 "$" -2196167.0
